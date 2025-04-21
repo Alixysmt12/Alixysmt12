@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
 <h3 align="center">A passionate Mobile App Developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Carlutions**
+- 🔭 I’m currently working on **Harmony-Homes** (Harmony-Homes: A convenient cleaning service app for booking trusted home cleaning professionals with ease.)
 
-- 🌱 I’m currently learning **Flutter,Dart,Jetpack Compose**
+- 🌱 I’m currently learning **Jetpack Compose,Kotlin Multiplatform**
 
-- 💬 Ask me about **Android,Kotlin,Java**
+- 💬 Ask me about **Android,Kotlin,Java,Flutter,Dart**
 
 - 📫 How to reach me **alimuhammad5022@gmail.com**
 
